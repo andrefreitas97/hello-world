@@ -1,3 +1,3 @@
 # hello-world
 hello
-Trying to learn different fpv drone software
+Trying to learn...
